@@ -1,0 +1,111 @@
+
+template: "online-cv"
+skin: "blue"
+
+# Personal Information
+basic_info:
+
+    # Your full name
+    first_name: Ruben 
+    last_name: Rebelo
+    
+    # Define yourself in 4-5 words
+    motto: Life's simple. you make choices and you don't look back
+    
+    # Focus
+    focus:  Become a software developer
+    
+    # You have 1 paragraph to make a great impression, summarize your career
+    summary: I am a licensed physical therapist, currently working as a police officer in a security force, I am not afraid of change and new challenges, and I want to explore the area of ​​programming.
+    
+    # Your profile picture URL
+    # If you don't have it as a URL you can place the picture inside /static/profile-images/ and the generated link will be http://sep.breatheco.de/static/profile-images/<your file name>
+    avatar: https://randomuser.me/api/portraits/men/4.jpg
+
+    # Contact Information
+    email: ro-ben-22@hotmail.com #optional
+    phone:  #optional
+    website:  #optional
+    linkedin:  #optional
+    
+    #
+    # ******** IMPORTANT *******
+    # This github username will be used to generate your public profile URL like this: http://sep.breatheco.de/sharu725
+    github: Rebelo7
+    
+    twitter:  #optional
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    # Languages you speak, levels include: Native, Professional
+    languages:
+      - idiom: Portuguese
+        level: Native
+
+      - idiom: French
+        level: Basic 
+
+      - idiom: English
+        level: Intermediate
+
+    # Interests or hobbies
+    interests:
+      - item: Gamming
+
+      - item: Padel
+
+      - item: Kick-Box
+
+# Your previous education
+education:
+    - degree: Graduation in physiotherapy
+      university: CESPU
+      # optional
+      university_logo: https://www.cespu.pt/css/images/logo_cespu.png
+      time: 2011 - 2015
+      details: |
+        
+
+    
+
+# Your previous job experiences or volunteer
+experiences:
+    - role: Police officer
+      time: 2015 - Present
+      company: GNR - GUARDA NACIONAL REPUBLICANA
+      # optional
+      company_logo: https://www.gnr.pt/layout/gnr_frontcontent_1.png
+      details: |
+        
+
+ 
+
+# Your project portfolio
+projects:
+    intro: >
+      Projects donne in the 4Geeks academy bootcamp
+
+    assignments:
+      - title: Instagram Post Layout
+        # optional
+        project_logo: 
+        link: "https://github.com/4GeeksAcademy/Simple-Instagram-Photo-Feed-"
+        tagline: "A static instagram post Layout."
+
+      - title: Instagram Photo Feed with Bootstrap
+        # optional
+        project_logo: 
+        link: "#"
+        tagline: "A dinamic Instagram feed and post layout."
+
+      - title: Create an HTML5 form
+        # optional
+        project_logo: 
+        link: "https://github.com/4GeeksAcademy/Create-an-HTML5-form---Ruben"
+        tagline: "A simple payment form in a HTML format"
+     
+      
+skills:
+    toolset:
+      
+      - name: HTML5 & CSS
+        level: 60%
